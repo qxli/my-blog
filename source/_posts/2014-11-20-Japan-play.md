@@ -3,7 +3,7 @@ title: 日本之行
 layout: post
 guid: urn:uuid:26c10ecc-f4eb-47ec-93fb-c062942878aa
 tags:
-  - travel
+  - 旅行
 ---
 
 时间：2014-11-5 - 2014-11-9  

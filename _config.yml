@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Qxli's Home
-subtitle:
+title: Qxli's blog
+subtitle: write something
 description:
 author: qxli
 language:
@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /blog/
+url: http://qxli.me/blog
+root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
